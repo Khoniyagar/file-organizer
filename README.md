@@ -46,7 +46,7 @@ The.Movie/
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/Khoniyagar/file-organizer.git
 cd organized
 ```
 
